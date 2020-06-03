@@ -17,4 +17,4 @@ spec:
   spec:
     containers:
     - name: myweb-image
-      image: satyam0786/riseweb:v1    
+      image: satyam0786/riseweb:v2  
